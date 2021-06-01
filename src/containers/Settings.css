@@ -1,0 +1,10 @@
+@media all and (min-width: 30rem) {
+  .Settings {
+    padding: 3.75rem 0;
+  }
+
+  .Settings form {
+    margin: 0 auto;
+    max-width: 30rem;
+  }
+}
